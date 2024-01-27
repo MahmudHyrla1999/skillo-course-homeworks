@@ -1,5 +1,5 @@
 username = 'asdf'
-password = 'quest'
+password = ('admin')
 
 if username == 'admin':
     if password == 'password':
