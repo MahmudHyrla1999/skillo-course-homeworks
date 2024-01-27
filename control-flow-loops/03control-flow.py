@@ -1,5 +1,5 @@
 weather = "rainy"
-temperature= 21
+temperature= 18
 
 if weather == "sunny":
     pass
