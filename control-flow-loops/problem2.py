@@ -9,6 +9,7 @@ def is_correct(answer):
         # If there's an error evaluating the answer, it's incorrect
         return False
 
+
 # Prompt the user to solve the problem
 print("How much does 5 + 17 equal to?")
 # Use a loop to continue prompting the user until they provide the correct answer
@@ -23,7 +24,3 @@ while True:
     else:
         # If the answer is incorrect, prompt the user to try again
         print("Incorrect! Please try again.")
-
-
-
-
