@@ -1,7 +1,11 @@
-def greet_user():
-    print("Hi there!")
-    print("Welcome aboard!")
+def greet_user(name):
+    print(f'Hi {name}')
 
-print("Start")
-greet_user()
-print("Finish")
+
+print('Welcome aboard!')
+
+print('start')
+
+greet_user('Shahbaz')
+
+print('finish')
